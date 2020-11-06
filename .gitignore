@@ -1,0 +1,4 @@
+# Ignorar la carpate .gradle para hacer commit
+.gradle
+# Ignorar el folder build que tiene todo lo generado por gradle
+build
