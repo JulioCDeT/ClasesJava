@@ -2,3 +2,5 @@
 .gradle
 # Ignorar el folder build que tiene todo lo generado por gradle
 build
+# Ignorar el folder .idea creado por intellij
+.idea
